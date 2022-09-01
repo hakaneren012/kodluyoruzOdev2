@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ogg_Logo.svg/1200px-Ogg_Logo.svg.png" style="width:400px; height:300px"/>
+    <br />
+    <hr />
+    <p>Ogg ya da bir diğer yazılışıyla OGG, Xiph.org Vakfı tarafından geliştirilen açık ve özgür bir çokluortam dosya biçimidir.
+    Yazılım patentlerinin tehdidi altında olmayan bu dosya biçimi,
+    akışkan video için optimize edilmiş yüksek kalitede çokluortam gerçeklemeleri için geliştirilmiştir.</p>
+    <blockquote cite="https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_blockquote_test">"Lorem ipsum dolor sit, amet consectetur adipisicing elit.Facere dolore sint ea?" Molestiae ratione ullam,
+    illo commodi ipsum soluta mollitia itaque,maiores maxime natus reiciendis architecto. Quaerat culpa beatae dicta.</blockquote>
+    <hr /><br />
+          <div style="margin-left:250px">
+
+
+              <div style="width:200px; height:300px; ">
+                  <img src="https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg" style="width:200px; height:300px" />
+                  <i>This article is about the book. For the film series, see The Lord of the Rings (film series). For other uses, see The Lord of the Rings (disambiguation).</i>
+                  "War of the Ring" redirects here. For other uses, see War of the Ring (disambiguation).
+                  The first single-volume edition (1968)
+              </div>
+
+              <div style="width:200px; height:300px; margin-top:-300px; margin-left:350px">
+                  <img src="https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg" style="width:200px; height:300px;" />
+                  Saygın bir yazılım şirketinde çalışan Thomas Anderson (Keanu Reeves), gecelerini "Neo" adı altında program kırarak ve Matrix'i araştırarak geçirir.
+                  Esrarengiz şekilde Trinity ve Morpheus ile tanışan Neo, yaşadığı dünyanın aslında beyninde gerçekleşen bir simülasyondan ibaret olduğunu öğrenir.         
+              </div>
+
+              <div style="width:200px; height:300px; margin-top:-300px; margin-left:700px">
+                  <img src="https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg" style="width:200px; height:300px;" />
+                  The Godfather is a 1972 American crime film[2] directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo,
+                  based on Puzo's best-selling 1969 novel of the same name. The film stars Marlon Brando, Al Pacino, James Caan, Richard Castellano...              
+              </div>
+
+              <div style="width:200px; height:300px; margin-top:-300px; margin-left:1050px">
+                  <img src="https://cdn.dsmcdn.com/ty41/product/media/images/20210325/21/75323484/75237526/1/1_org_zoom.jpg" style="width:200px; height:300px;" />
+                  Esaretin Bedeli, Frank Darabont'un senaryosunu yazdığı ve yönettiği, başrollerinde Tim Robbins ve Morgan Freeman'ın yer aldığı 1994 yapımı Amerikan dram filmidir.
+                  <a href="https://www.imdb.com/title/tt0111161/" target="_blank">Linke git.</a>
+              </div>
+              <div style="width:200px; height:300px; margin-top:-300px; margin-left:1400px">
+                  <img src="https://tr.web.img4.acsta.net/pictures/bzp/01/10568.jpg" style="width:200px; height:300px;" />
+                  Forrest Gump, zeka seviyesi 75 olan bir adamdir. Zeka seviyesi nedeni ile devlet okullarina girmekte bile zorlanan
+                  Forrest Gump zamanla akla mantiga uymayan basarilara imza atar.
+              </div>
+          </div>
+</body>
+</html>
